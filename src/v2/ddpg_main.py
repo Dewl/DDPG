@@ -2,7 +2,7 @@ import os
 import sys
 import rospy
 import gym
-import gym_gazebo
+# import gym_gazebo
 import numpy as np
 import tensorflow as tf
 
